@@ -42,7 +42,7 @@ body {
 	max-width: 900px;
 }
 
-.resume__block {
+.resume__block, .about__block {
 	border-bottom: 3px solid var(--border-color);
 	padding-bottom: 30px;
 	margin-bottom: 15px;
